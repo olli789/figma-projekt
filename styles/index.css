@@ -10,6 +10,7 @@
     margin-left: 80px;
 }
 
+
 .logo-dot {
     color: #A3DC00;
     font-size: 50px;
@@ -73,4 +74,53 @@ img {
 
 section {
     display: inline-block;
+}
+
+a {
+    margin-left: 40px;
+    color: #A3DC00;
+    font-size: 20px;
+    text-decoration: none
+    
+}
+
+a:hover {
+    color: greenyellow;
+
+
+  }
+
+.sign-up {
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: #A3DC00;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding: 15px 32px;
+}
+
+.sign-in {
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 1250px;
+    border-radius: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #A3DC00;
+    border: none;
 }
