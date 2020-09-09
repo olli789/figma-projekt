@@ -129,6 +129,6 @@ background-color:lightskyblue;
     border: none;  
 }
 
-nav, li {
+nav, li, h3 {
     display:inline-block;
 }
