@@ -81,11 +81,11 @@ a {
     color: #A3DC00;
     font-size: 20px;
     text-decoration: none
-    
 }
 
 a:hover {
     color: greenyellow;
+    
   }
 
 .sign-up {
@@ -105,12 +105,18 @@ a:hover {
     color: #FFFFFF;
     padding: 15px 32px;
 }
+.sign-up:hover {
+background-color:lightskyblue;
+
+}
+
 
 .sign-in {
     width: 152px;
     height: 64px;
     margin-top: 50px;
-    margin-left: 700px;
+    margin-left: 650px;
+    margin-bottom: 300px;
     border-radius: 0px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -121,4 +127,8 @@ a:hover {
     letter-spacing: 0.02em;
     color: #A3DC00;
     border: none;  
+}
+
+nav, li {
+    display:inline-block;
 }
